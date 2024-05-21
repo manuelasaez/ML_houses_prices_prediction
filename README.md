@@ -1,5 +1,5 @@
-## Machine learining houses prices prediction
-# Motivation: 
+# Machine learining houses prices prediction
+## Motivation: 
 What factors influence the price of a property? A detailed analysis using statistical or machine learning models can help predict the final price of each home based on the specific attributes of properties in Ames, Iowa. The price of a property can be influenced by various factors, including but not limited to:
 1. **Location**: Proximity to schools, parks, shopping centers, and employment opportunities.
 2. **Size of the Property**: Including the total area, number of rooms, and overall square footage.
@@ -12,8 +12,16 @@ What factors influence the price of a property? A detailed analysis using statis
 9. **Environmental Factors**: Exposure to noise, pollution, and natural hazards like flood zones or proximity to industrial areas.
 
 
-#Goal:  
+## Goal:  
 To predict the sales price for each house. For each Id in the test set, I predict the value of the SalePrice variable. 
 
-# Technical details:
+## Technical details:
 In this project I conduct a descriptive analysis of the data sets using wrangling techniques, descriptive statistics and visualizations. Also, I applied machine learning models as regression trees and random forest to do the predictions. 
+
+Libraries:
+
+- **pandas**
+- **Numpy**
+- **seaborn**
+- **matplotlib**
+- **scikit-learn**
