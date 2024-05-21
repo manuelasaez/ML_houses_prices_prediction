@@ -20,8 +20,8 @@ In this project I conduct a descriptive analysis of the data sets using wranglin
 
 Libraries:
 
-- **pandas**
+- **Pandas**
 - **Numpy**
-- **seaborn**
-- **matplotlib**
-- **scikit-learn**
+- **Seaborn**
+- **Matplotlib**
+- **Scikit-learn**
